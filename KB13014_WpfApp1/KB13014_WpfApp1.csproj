@@ -9,14 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <EditorConfigFiles Remove="C:\Users\NIshibashi\Cases\KB\13014\KB13014_WpfApp1\KB13014_WpfApp1\.editorconfig" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="C:\Users\NIshibashi\Cases\KB\13014\KB13014_WpfApp1\KB13014_WpfApp1\.editorconfig" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Infragistics.WPF.Charts" Version="23.2.94" />
   </ItemGroup>
 
